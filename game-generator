@@ -1,0 +1,8 @@
+from renderer.custom import Renderer
+
+filename = 'test.svg'
+
+r = Renderer()
+r.createLayout()
+r.rescale(10)
+r.save_svg(filename)
