@@ -1,0 +1,39 @@
+{
+  "general": {
+    "output_file_name": "out"
+  },
+  "points": {
+    "circle": [
+      {
+        "points": 2,
+        "variants": 4
+      },
+      {
+        "points": 3,
+        "variants": 4
+      },
+      {
+        "points": 4,
+        "variants": 4
+      },
+      {
+        "points": 5,
+        "variants": 4
+      }
+    ],
+    "grid": [
+      {
+        "points": 5,
+        "variants": 8
+      },
+      {
+        "points":10,
+        "variants": 8
+      },
+      {
+        "points": 15,
+        "variants": 8
+      }
+    ]
+  }
+}
